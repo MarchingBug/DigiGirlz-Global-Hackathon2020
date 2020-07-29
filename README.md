@@ -13,4 +13,4 @@ Creativity is a key to fun
 We believe that technology can help us solve many important problems
 We are stronger together!
 
-Check out our <a href=" https://mariamagdalenaszym.wixsite.com/mojawitryna/" target="_blank">Friend Bot</a>
+Check out our <a href="https://mariamagdalenaszym.wixsite.com/mojawitryna/" target="_blank">Friend Bot</a>
