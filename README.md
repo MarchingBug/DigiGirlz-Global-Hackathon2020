@@ -1,6 +1,6 @@
 # DigiGirlz Global Hackathon 2020
 
-![Architecture](eam-picture (1).gif)
+![Turing Tested](TuringTestedTeam.gif)
 
 We believe in working together to solve problems
 What brought us together is being open minded about various subjects
