@@ -1,6 +1,6 @@
 # DigiGirlz Global Hackathon 2020
 
-![Architecture](architecture.png)
+![Architecture](eam-picture (1).gif)
 
 We believe in working together to solve problems
 What brought us together is being open minded about various subjects
